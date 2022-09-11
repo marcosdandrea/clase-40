@@ -1,0 +1,39 @@
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"error":{},"level":"error"}
+{"error":{},"level":"error"}
+{"error":{},"level":"error"}
+{"error":{},"level":"error"}
+{"error":"userDatabase is not defined","level":"error"}
+{"error":"ReferenceError: userDatabase is not defined","level":"error"}
+{"error":"userDatabase is not defined","level":"error"}
+{"error":"ReferenceError: userDatabase is not defined","level":"error"}
+{"error":"userDatabase is not defined","level":"error"}
+{"error":"ReferenceError: userDatabase is not defined","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"error":"Server is closed","level":"error"}
+{"error":"MongoServerClosedError: Server is closed","level":"error"}
+{"error":"Server is closed","level":"error"}
+{"error":"MongoServerClosedError: Server is closed","level":"error"}
+{"level":"error"}
+{"error":"The argument 'flags' is invalid. Received 'utf-8'","level":"error"}
+{"error":"The argument 'flags' is invalid. Received 'utf-8'","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"error":"data and hash arguments required","level":"error"}
